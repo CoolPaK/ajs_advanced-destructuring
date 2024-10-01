@@ -1,6 +1,6 @@
 ## AJS_Advanced-Destructuring
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/kk52w313ouvdqh46?svg=true)](https://ci.appveyor.com/project/CoolPaK/ajs-advanced-destructuring)
 
 ---
 
